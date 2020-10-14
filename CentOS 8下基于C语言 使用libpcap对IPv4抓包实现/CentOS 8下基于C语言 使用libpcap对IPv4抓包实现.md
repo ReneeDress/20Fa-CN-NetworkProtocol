@@ -1,14 +1,4 @@
----
-title: StudyNote | CentOS 8下基于C语言 使用libpcap对IPv4抓包实现
-date: 2020-10-13 16:25:32
-tags: [ComputerScience, ComputerNetwork, StudyNote]
-categories: 
-    - [SHU]
-    - [计算机科学与技术ComputerScience]
-    - [计算机网络ComputerNetwork]
-abstract: 计算机网络第3次课程研讨内容。
-
----
+# CentOS 8下 基于C语言 使用libpcap 对IPv4抓包实现
 
 **Created Date**: 2020-10-14 12:56:24
 **Last Upgraded Date**: 2020-10-14 13:21:45
