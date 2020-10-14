@@ -1,4 +1,4 @@
-# CentOS 8下默认防火墙FirewallD操作实践.md
+# CentOS 8下默认防火墙FirewallD操作实践
 
 **Created Date**: 2020-10-13 16:25:32
 **Last Upgraded Date**: 2020-10-14 12:21:42
@@ -626,4 +626,3 @@ Panic Options
   --panic-off          Disable panic mode
   --query-panic        Query whether panic mode is enabled
 ```
-
