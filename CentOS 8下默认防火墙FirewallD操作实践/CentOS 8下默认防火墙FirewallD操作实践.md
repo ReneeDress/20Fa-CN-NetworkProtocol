@@ -1,13 +1,4 @@
----
-title: StudyNote | CentOS 8下默认防火墙FirewallD操作实践
-date: 2020-10-13 16:25:32
-tags: [ComputerScience, ComputerNetwork, StudyNote]
-categories: 
-    - [SHU]
-    - [计算机科学与技术ComputerScience]
-    - [计算机网络ComputerNetwork]
-abstract: 计算机网络第3次课程研讨内容。
----
+# CentOS 8下默认防火墙FirewallD操作实践.md
 
 **Created Date**: 2020-10-13 16:25:32
 **Last Upgraded Date**: 2020-10-14 12:21:42
